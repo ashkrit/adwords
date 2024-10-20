@@ -1,4 +1,4 @@
-package org.adword.models;
+package org.adword.models.ad;
 
 import java.util.List;
 
